@@ -32,18 +32,16 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivangi-t/prison-expenditure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Expenditure in Indian Prisons
 
 For this assignment, I took the Prison Statistics for the year 2010, and decided to look at expenditure in particular.
 
 There is the trivial correlation between number of inmates and total expenditure, ie the more the inmates, the more the expenditure. What I looked at, instead, was the amount that states spend on each inmate.
 
-<script type='text/javascript' src='https://dub01.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1440px; height: 709px;'><object class='tableauViz' width='1440' height='709' style='display:none;'><param name='host_url' value='https%3A%2F%2Fdub01.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;shivangistableau' /><param name='name' value='ExpenditureinIndianPrisons&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
+<script type='text/javascript' src='https://dub01.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1440px; height: 709px;'><object class='tableauViz' width='1000' height='709' style='display:none;'><param name='host_url' value='https%3A%2F%2Fdub01.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;shivangistableau' /><param name='name' value='ExpenditureinIndianPrisons&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
 
 The smaller, northeastern states comprise the top 10 states by expenditure per inmate. Delhi, strangely, places second on this list. However, most of Delhi’s expenditure falls under the mysterious category of “Other expenditure related to inmates only”. When this category is excluded, Delhi disappears from the list. The other states remain more or less the same.
 
-SECOND EXPENDITURE GRAPH
+<script type='text/javascript' src='https://dub01.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 709px;'><object class='tableauViz' width='1440' height='709' style='display:none;'><param name='host_url' value='https%3A%2F%2Fdub01.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;shivangistableau' /><param name='name' value='ExpenditureinIndianPrisons&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
 
 
